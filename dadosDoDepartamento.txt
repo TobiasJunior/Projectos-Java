@@ -1,0 +1,4 @@
+1-Gestao
+2-Limpeza
+3-Atendimento
+4-Segurança
